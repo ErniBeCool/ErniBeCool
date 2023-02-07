@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/ernibecool"
+          feed_list: "https://dev.to/ernibecool/test-3mb0"

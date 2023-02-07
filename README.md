@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<div id="header" align="center" dir="auto" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center" >
+<div id="badges" align="center" dir="auto" >
   <a href="https://www.linkedin.com/in/ернияз-боранқұл-a092367a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -20,8 +20,14 @@
   </a>
 </div>
 
-<div id="badges" align="center" >
+<div id="badges" align="center" dir="auto" >
   <img src="https://komarev.com/ghpvc/?username=ErniBeCool&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div id="badges" align="center" dir="auto" >
+  <a href="https://www.buymeacoffee.com/ernibecool">
+    <img src="https://camo.githubusercontent.com/3ba8042b343d12b84b85d2e6563376af4150f9cd09e72428349c1656083c8b5a/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f64656661756c742d6f72616e67652e706e67" alt="Buy Me A Coffee" height="41" width="174" data-canonical-src="https://cdn.buymeacoffee.com/buttons/default-orange.png" style="max-width: 100%;">
+    </a>
 </div>
 
 <h1 align="center">
@@ -29,7 +35,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
+<div align="center" dir="auto" >
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 

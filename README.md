@@ -80,4 +80,11 @@ I am a junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcM
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErniBeCool&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<br>
+  <p>
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+  <br>
+  <p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ernibecool&theme=vue" alt="snake"></center>
+</p>

@@ -28,10 +28,6 @@
 <a href="https://www.buymeacoffee.com/ernibecool" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
-<p align="center">
-<a href="https://www.codewars.com/users/ErniBeCool"><img src="https://www.codewars.com/users/ErniBeCool/badges/small" alt="CW"></a>
-</p>
-
 <h1 align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
